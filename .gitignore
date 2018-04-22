@@ -75,3 +75,5 @@ typings/
 
 
 # End of https://www.gitignore.io/api/git,node,visualstudiocode
+
+config.json
