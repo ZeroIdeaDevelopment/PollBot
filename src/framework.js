@@ -211,4 +211,4 @@ class Context {
     }
 }
 
-module.exports = {PolLBot, Command, Context}
+module.exports = {PollBot, Command, Context}
