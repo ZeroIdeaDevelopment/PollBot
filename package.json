@@ -1,0 +1,29 @@
+{
+  "name": "pollbot",
+  "version": "0.0.1",
+  "description": "A bot for making polls on Discord.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeroIdeaDevelopment/PollBot.git"
+  },
+  "keywords": [
+    "discord",
+    "poll",
+    "bot"
+  ],
+  "author": "ZeroIdea Development",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZeroIdeaDevelopment/PollBot/issues"
+  },
+  "homepage": "https://github.com/ZeroIdeaDevelopment/PollBot#readme",
+  "dependencies": {
+    "eris": "^0.8.5",
+    "minimist": "^1.2.0",
+    "redite": "^1.1.3"
+  }
+}
