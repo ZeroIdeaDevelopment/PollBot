@@ -6,6 +6,6 @@ const bot = new framework.PollBot(options.token, options.prefixes, options.setti
 
 bot.on('ready', () => {
     console.log(`Logged into Discord as ${bot.user.username}#${bot.user.discriminator} (${bot.user.id})`)
-})
+});
 
-bot.connect()
+bot.connect();
